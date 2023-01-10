@@ -6,7 +6,7 @@ Here , I add how I am preparing for DSA in C++
 <h3>Platforms in am using </h3>
 
 1. LEETCODE
-2. GFG PRACTISE
+2. GFG PRACTICE
 3. CODEFORCES
 4. CODECHEF
 5. HACKERRANK 
